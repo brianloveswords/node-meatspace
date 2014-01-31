@@ -31,6 +31,7 @@ send a pull request.*
 * *Feb 13th-14th* **Budapest, Hungary** [MLOC.JS](http://mloc-js.com/2014/)
 * *Feb 17th-19th* **San Francisco, CA, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-san-francisco-feb-2014)
 * *Feb 20th* **Saint Louis, MO, USA** [STLJS: Distributed, Functional Reactive JavaScript for the Win](http://www.meetup.com/STL-JS-meetup/events/151262552/)
+* *Feb 23rd* **Brooklyn, NY, USA** [Brooklyn NodeSchool](https://ti.to/nodeschool-nyc/brooklyn-february-2014)
 * *Feb 26th-28th* **New York City, NY, USA** [Node.JS Fundamentals training](http://www.olindata.com/training/nodejs/nodejs-fundamentals-training-new-york-city-feb-2014)
 
 ### March 2014
